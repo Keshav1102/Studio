@@ -280,10 +280,10 @@ export const testimonials = [
 ];
 
 export const contactData = {
-  address: '123 MG Road, Koramangala, Bangalore - 560034, Karnataka, India',
-  phone: '+91 98765 43210',
-  whatsapp: '+91 98765 43210',
-  email: 'info@krishnastudio1996.com',
-  hours: 'Mon - Sat: 10:00 AM - 8:00 PM | Sunday: By Appointment',
-  mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.6506466258067!2d77.6270803!3d12.9351929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae144ed898fc47%3A0x1681f38f91c0eb56!2sKoramangala%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1234567890'
+  address: 'Shop no. 12, Nain Market, Nangla Road, Jawahar Colony, Sector 22, Faridabad, Haryana 121005, India',
+  phone: '+91 98994 47899',
+  whatsapp: '+91 92137 74963',
+  email: 'krishnaphotostudio1996@gmail.com',
+  hours: 'Mon - Sun: 8:00 AM - 9:00 PM | Last Day of Month: By Appointment',
+  mapUrl: 'https://www.google.com/maps/place/Krishna+Studio+(Since+1996)/@28.3659304,76.062023,9z/data=!4m10!1m2!2m1!1sKrishna+Photo+Studio+Shop+No.12,+Nain+Market,+Nangla+Road,+Jawahar+Colony,+N.I.T,+Faridabad,+Haryana+121005,+India!3m6!1s0x390cdea61b1c0fc7:0x3a24b95b7a5f4fc4!8m2!3d28.3659304!4d77.2815054!15sCnJLcmlzaG5hIFBob3RvIFN0dWRpbyBTaG9wIE5vLjEyLCBOYWluIE1hcmtldCwgTmFuZ2xhIFJvYWQsIEphd2FoYXIgQ29sb255LCBOLkkuVCwgRmFyaWRhYmFkLCBIYXJ5YW5hIDEyMTAwNSwgSW5kaWGSARJwaG90b2dyYXBoeV9zdHVkaW_gAQA!16s%2Fg%2F1hdz6646m?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D'
 };
